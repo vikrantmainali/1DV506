@@ -1,0 +1,11 @@
+96133; Boden
+41879; Göteborg
+23642; Höllviken
+35243; Växjö
+90325; Umeå
+12151; Stockholm
+72211; Västerås
+75242; Uppsala
+51000; Jönköping
+97333; Luleå
+
